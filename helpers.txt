@@ -1,0 +1,11 @@
+cd <directory>           # change current directory to <directory>
+cd .. 	                 # go up a directory
+git clone <link>         # adds repo from link to directory
+git branch               # lists downloaded branches
+git branch <name>        # creates new branch
+git pull                 # grabs latest update
+git push 	         # pushes commits
+git checkout <name>      # switch to branch
+git add .                # adds everything in directory to commit
+git commit -am <message> # creates commit with message
+git status               # checks status
